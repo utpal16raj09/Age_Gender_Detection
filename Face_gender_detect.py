@@ -1,6 +1,5 @@
 import cv2
 
-# Define the paths to the models inside the ML_Models folder
 model_folder = "ML_Models/"
 
 # Paths to the age and gender detection models
